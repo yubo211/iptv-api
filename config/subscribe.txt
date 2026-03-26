@@ -4,7 +4,8 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 
-
+https://live.zbds.top/tv/iptv4.txt
+https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/22.m3u
 
 
 [WHITELIST]
